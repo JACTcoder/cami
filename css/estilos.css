@@ -53,9 +53,12 @@ figure{
 	margin: 0;
 }
 .rot90{
-	-webkit-transform: rotate(90deg);
+	/*-webkit-transform: rotate(90deg);
 	-moz-transform: rotate(90deg);
 	rotation: 90deg;
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
-	margin: 20px 0;
+	margin: 20px 0;*/
+}
+.historias{
+	margin-bottom: 50px;
 }
